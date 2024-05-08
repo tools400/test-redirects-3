@@ -1,1 +1,3 @@
 # test-redirects-3
+
+Testing redirects...
